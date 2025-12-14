@@ -14,22 +14,24 @@
 - Writing clean and maintainable autotests
 
 ---
-
-## 🛠 Tech Stack
+<h2>🛠 Tech Stack</h2>
 
 <p>
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/.github/assets/webdriverio.png" width="40" />
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>
+  <!-- Testing -->
+  <img src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/.github/assets/webdriverio.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/src/assets/playwright-logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
+
 
 ---
 
