@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/.github/assets/webdriverio.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/.github/assets/webdriverio.png" width="40" />
   <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
