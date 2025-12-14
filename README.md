@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ivan Khmelev (osiern)
 
-<!--
-**osiern/osiern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer at Yandex. Manual → AQA. UI automation with WebdriverIO (JavaScript).
 
-Here are some ideas to get you started:
+## Focus
+- UI автотесты: WebdriverIO (JS)
+- Тест-дизайн: чек-листы, граничные значения, негативные сценарии
+- API: REST, базовые проверки контрактов и ответов
+- Учусь и систематизирую практику в отдельных репозиториях
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+- JavaScript, TypeScript (in progress)
+- WebdriverIO
+- Playwright (in progress)
+- Python (для API/утилит)
+- Git, CI basics
+
+## Repositories
+- `autotests-api` — эксперименты и практика с API
+- `homeworkRedRover` — учебные задания
+
+## Contacts
+- Telegram: @
+- Email: 
