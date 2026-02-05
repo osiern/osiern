@@ -27,8 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
   <!-- Testing -->
-  <img src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/website/static/img/webdriverio.png" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/website/static/img/webdriverio.png" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
 
