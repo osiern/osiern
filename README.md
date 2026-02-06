@@ -52,13 +52,14 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=osiern&show_icons=true&hide_title=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=osiern&show_icons=true&hide_title=true&theme=transparent&cache_seconds=86400" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiern&layout=compact" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiern&layout=compact&theme=transparent&cache_seconds=86400" />
 </p>
+
 
 ---
 
