@@ -53,12 +53,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=osiern&show_icons=true&hide_title=true&theme=transparent&cache_seconds=86400" />
+  <img height="170" src="https://stats.dooboo.io/api?username=osiern&show_icons=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiern&layout=compact&theme=transparent&cache_seconds=86400" />
+  <img height="170" src="https://stats.dooboo.io/api/top-langs/?username=osiern&layout=compact" />
 </p>
+
 
 
 ---
