@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer • Manual → AQA • WebdriverIO (JavaScript)</h3>
 
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=QA+Engineer;UI+Automation+with+WebdriverIO;Manual+to+Automation+QA" />
+  <img src="https://readme-typing-svg.demolab.com?size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=QA+Engineer;UI+Automation+with+WebdriverIO;Manual+to+Automation+QA" />
 </p>
 
 ---
