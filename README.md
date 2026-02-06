@@ -50,20 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://stats.dooboo.io/api?username=osiern&show_icons=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://stats.dooboo.io/api/top-langs/?username=osiern&layout=compact" />
-</p>
-
-
-
----
-
 ## 📫 Contact
-- Telegram: @YOUR_TELEGRAM
-- Email: your@email.com
+- Telegram: @ivankhmelev
+- Email: iakhmelev@yandex.ru
