@@ -46,7 +46,6 @@
 
 ## 📂 Featured Repositories
 - **autotests-api** — API automation practice
-- **homeworkRedRover** — QA & automation learning tasks
 
 ---
 
