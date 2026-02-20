@@ -37,8 +37,6 @@
 
 ## 🧪 Testing & QA
 - UI automation: **WebdriverIO**
-- E2E testing: **Playwright**
-- API testing: **Postman**
 - Test design: checklists, boundary values, negative scenarios
 - Bug reporting and collaboration with developers
 
