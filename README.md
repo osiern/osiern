@@ -8,10 +8,9 @@
 ---
 
 ## 🔍 About Me
-- QA Engineer with strong focus on **UI automation**
-- Experience in **manual testing** and test design
-- Moving towards **Automation QA (JavaScript)**
-- Writing clean and maintainable autotests
+- QA Engineer focused on **end-to-end testing and automation.** 
+
+- I work with complex business workflows involving multiple services, user interfaces, backend integrations, and API interactions.
 
 ---
 <h2>🛠 Tech Stack</h2>
