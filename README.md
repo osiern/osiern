@@ -7,30 +7,32 @@
 
 ---
 
-## 🔍 About Me
+## About Me
 - QA Engineer focused on **end-to-end testing and automation.** 
 
 - I work with complex business workflows involving multiple services, user interfaces, backend integrations, and API interactions.
 
-What I do
-Develop and maintain E2E automated tests
-Automate business-critical user journeys
-Perform API testing and validation
-Investigate frontend and backend defects
-Design test coverage for complex features
-Review requirements and identify risks before implementation
-Help manual testers learn automation practices
-🚀 Areas of Expertise
-End-to-End Testing
-UI Testing
-API Testing
-Regression Testing
-Smoke Testing
-Exploratory Testing
-Test Design
-Defect Analysis
-Integration Testing
-Business Process Validation
+## What I do
+- Develop and maintain E2E automated tests
+- Automate business-critical user journeys
+- Perform API testing and validation
+- Investigate frontend and backend defects
+- Design test coverage for complex features
+- Review requirements and identify risks before implementation
+- Help manual testers learn automation practices
+
+## Areas of Expertise
+- End-to-End Testing
+- UI Testing
+- API Testing
+- Regression Testing
+- Smoke Testing
+- Exploratory Testing
+- Test Design
+- Defect Analysis
+- Integration Testing
+- Business Process Validation
+  
 ---
 <h2>🛠 Tech Stack</h2>
 
