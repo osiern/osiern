@@ -56,18 +56,18 @@
 ---
 
 ## 🧪 Testing & QA
--- End-to-End Automation
+- **End-to-End Automation**
 - Automating complete user workflows
 - Validating cross-system integrations
 - Testing business processes from UI to backend
 - Data verification across multiple entities
 - Creating stable regression suites
--- API Testing
+- **API Testing**
 - Request and response validation
 - Contract verification
 - Data preparation for automated tests
 - Backend troubleshooting
--- UI Testing
+- **UI Testing**
 - Page Object Model
 - Reliable locators and synchronization
 - Cross-page user scenarios
