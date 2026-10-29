@@ -91,5 +91,5 @@ JavaScript practice and interview preparation for Automation QA.
 ---
 
 ## 📫 Contact
-- Telegram: @ivankhmelev
+- Telegram: @ivan_tg_tg
 - Email: iakhmelev@yandex.ru
