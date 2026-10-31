@@ -34,13 +34,25 @@
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" />
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" />
   <img alt="Robot Framework" src="https://cdn.simpleicons.org/robotframework/F08C00" width="38" />
+  <img alt="WebdriverIO" src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/website/static/img/webdriverio.png" width="38" />
   <img alt="Playwright" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="38" />
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" />
+  <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38" />
+  <img alt="Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="38" />
+  <img alt="Docker Compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" />
 </p>
 
 - **Языки:** JavaScript, TypeScript, Python.
 - **UI-автоматизация:** Robot Framework, WebdriverIO, Playwright.
 - **API и backend:** pytest, httpx, HTTP/REST, gRPC, PostgreSQL, Redis, Kafka.
 - **Инструменты:** Git, GitHub, Docker Compose.
+
+<p align="center">
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img alt="httpx" src="https://img.shields.io/badge/httpx-4B8BBE?style=flat-square" />
+  <img alt="HTTP/REST" src="https://img.shields.io/badge/HTTP%2FREST-2563EB?style=flat-square" />
+  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
+</p>
 
 ## Избранные проекты
 
