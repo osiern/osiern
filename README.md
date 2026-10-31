@@ -1,95 +1,52 @@
-<h1 align="center">Hi, I'm Ivan 👋</h1>
-<h3 align="center">QA Engineer • Manual → AQA • WebdriverIO (JavaScript)</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AQA+Engineer;E2E+Automation+with+WebdriverIO;Manual+to+Automation+QA" />
-</p>
+<h1 align="center">Привет, я Иван Хмелёв 👋</h1>
+<h3 align="center">Инженер по автоматизации тестирования (AQA) в Яндексе</h3>
+<p align="center">От ручного тестирования к автоматизации · E2E · API · Backend</p>
 
 ---
 
-## About Me
-- QA Engineer focused on **end-to-end testing and automation.** 
+## Обо мне
 
-- I work with complex business workflows involving multiple services, user interfaces, backend integrations, and API interactions.
+Я QA-инженер, развиваюсь в автоматизации тестирования и проверяю пользовательские сценарии на разных уровнях — от интерфейса до API и взаимодействия backend-сервисов.
 
-## What I do
-- Develop and maintain E2E automated tests
-- Automate business-critical user journeys
-- Perform API testing and validation
-- Investigate frontend and backend defects
-- Design test coverage for complex features
-- Review requirements and identify risks before implementation
-- Help manual testers learn automation practices
+## Чем занимаюсь
 
-## Areas of Expertise
-- End-to-End Testing
-- UI Testing
-- API Testing
-- Regression Testing
-- Smoke Testing
-- Exploratory Testing
-- Test Design
-- Defect Analysis
-- Integration Testing
-- Business Process Validation
-  
----
-<h2>🛠 Tech Stack</h2>
+- Разрабатываю и поддерживаю сквозные автотесты.
+- Автоматизирую важные пользовательские и бизнес-сценарии.
+- Проверяю API, контракты и интеграции между сервисами.
+- Исследую дефекты на frontend и backend, помогаю находить их причины.
+- Проектирую тестовое покрытие, анализирую требования и риски до реализации.
+- Практикую тест-дизайн и помогаю осваивать автоматизацию тестирования.
+
+## Области тестирования
+
+- Сквозное, UI- и API-тестирование.
+- Интеграционные проверки и верификация данных между сервисами.
+- Регрессионное, дымовое и исследовательское тестирование.
+- Page Object Model, устойчивые локаторы и синхронизация браузерных тестов.
+- Анализ требований, рисков и дефектов.
+
+## Технологии
 
 <p>
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-
-  <!-- Testing -->
-  <img src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/website/static/img/webdriverio.png" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" />
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" />
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" />
+  <img alt="WebdriverIO" src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/website/static/img/webdriverio.png" width="34" />
+  <img alt="Playwright" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="38" />
 </p>
 
+**Автоматизация:** WebdriverIO, Playwright, pytest, httpx  
+**Backend и интеграции:** HTTP/REST, gRPC, PostgreSQL, Redis, Kafka, Docker Compose
 
----
+## Избранные проекты
 
-## 🧪 Testing & QA
-- **End-to-End Automation**
-- Automating complete user workflows
-- Validating cross-system integrations
-- Testing business processes from UI to backend
-- Data verification across multiple entities
-- Creating stable regression suites
-- **API Testing**
-- Request and response validation
-- Contract verification
-- Data preparation for automated tests
-- Backend troubleshooting
-- **UI Testing**
-- Page Object Model
-- Reliable locators and synchronization
-- Cross-page user scenarios
-- Snapshot and regression checks
+- [qa-platform](https://github.com/osiern/qa-platform) — демонстрационный магазин и тестовый стенд; UI-, API- и backend-интеграционные тесты на JavaScript, TypeScript и Python.
+- [autotests-api](https://github.com/osiern/autotests-api) — примеры Python-клиентов и проверок HTTP API и gRPC.
+- [wdio-project](https://github.com/osiern/wdio-project) — практика UI-автоматизации на JavaScript и WebdriverIO, включая Page Object Model.
 
----
+## Контакты
 
-## 📂 Featured Repositories
-autotests-api
-
-API testing exercises and automation examples.
-
-webdriverio-practice
-
-End-to-end test automation examples using WebdriverIO.
-
-js-learning
-
-JavaScript practice and interview preparation for Automation QA.
-
----
-
-## 📫 Contact
-- Telegram: @ivan_tg_tg
-- Email: iakhmelev@yandex.ru
+- Telegram: [@ivan_tg_tg](https://t.me/ivan_tg_tg)
+- Email: [iakhmelev@yandex.ru](mailto:iakhmelev@yandex.ru)
