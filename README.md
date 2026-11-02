@@ -33,7 +33,6 @@
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" />
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" />
-  <img alt="Robot Framework" src="https://cdn.simpleicons.org/robotframework/F08C00" width="38" />
   <img alt="WebdriverIO" src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/website/static/img/webdriverio.png" width="38" />
   <img alt="Playwright" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="38" />
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" />
@@ -43,7 +42,7 @@
 </p>
 
 - **Языки:** JavaScript, TypeScript, Python.
-- **UI-автоматизация:** Robot Framework, WebdriverIO, Playwright.
+- **E2E и UI-автоматизация:** WebdriverIO, Playwright.
 - **API и backend:** pytest, httpx, HTTP/REST, gRPC, PostgreSQL, Redis, Kafka.
 - **Инструменты:** Git, GitHub, Docker Compose.
 
