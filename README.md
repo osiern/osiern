@@ -1,12 +1,12 @@
-<h1 align="center">Привет, я Иван 👋</h1>
-<h3 align="center">Специалист по автоматизации тестирования в Яндексе</h3>
-<p align="center">От ручного тестирования к автоматизации</p>
+<h1 align="center">Hi, I'm Ivan 👋</h1>
+<h3 align="center">Test Automation Engineer at Yandex</h3>
+<p align="center">From manual testing to test automation</p>
 
 ---
 
-## Обо мне
+## About Me
 
-Я QA-инженер с фокусом на автоматизации тестирования. Разрабатываю автотесты на JavaScript и Python, тестирую интерфейсы, API и взаимодействие backend-сервисов. Выстраиваю тестовое покрытие ключевых пользовательских сценариев.
+I'm a QA engineer focused on test automation. I develop automated tests in JavaScript and Python, test user interfaces and APIs, and verify interactions between backend services. I build test coverage for key user journeys.
 
 ## Чем занимаюсь
 
