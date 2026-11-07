@@ -8,14 +8,12 @@
 
 I'm a QA engineer focused on test automation. I develop automated tests in JavaScript and Python, test user interfaces and APIs, and verify interactions between backend services. I build test coverage for key user journeys.
 
-## Чем занимаюсь
+## What I Do
 
-- Разрабатываю и поддерживаю E2E автотесты.
-- Автоматизирую важные пользовательские и бизнес-сценарии.
-- Проверяю API, контракты и интеграции между сервисами.
-- Исследую дефекты на frontend и backend, помогаю находить их причины.
-- Проектирую тестовое покрытие, анализирую требования и риски до реализации.
-- Практикую тест-дизайн и помогаю осваивать автоматизацию тестирования.
+- Write and maintain end-to-end tests for web applications using JavaScript.
+- Design test scenarios, set up test data through REST APIs, and investigate test failures and flaky tests.
+- Improve test automation frameworks by refining page objects and shared components, and review test code.
+- Help colleagues learn test automation by writing documentation and advising on test design and how to write automated tests.
 
 ## Области тестирования
 
