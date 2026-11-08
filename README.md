@@ -39,10 +39,11 @@ I'm a QA engineer focused on test automation. I develop automated tests in JavaS
   <img alt="Docker Compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" />
 </p>
 
-- **Языки:** JavaScript, TypeScript, Python.
-- **E2E и UI-автоматизация:** WebdriverIO, Playwright.
-- **API и backend:** pytest, httpx, HTTP/REST, gRPC, PostgreSQL, Redis, Kafka.
-- **Инструменты:** Git, GitHub, Docker Compose.
+- **Programming languages:** JavaScript, TypeScript, Python.
+- **E2E and UI automation:** WebdriverIO, Playwright.
+- **API and backend testing:** pytest, HTTPX, HTTP/REST, gRPC, PostgreSQL, Redis, Kafka.
+- **Tools:** Git, GitHub, Docker Compose.
+
 
 <p align="center">
   <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
