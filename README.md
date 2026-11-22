@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ivan 👋</h1>
-<h3 align="center">Test Automation Engineer at Yandex</h3>
+<h3 align="center">Test Automation Engineer</h3>
 <p align="center">From manual testing to test automation</p>
 
 ---
